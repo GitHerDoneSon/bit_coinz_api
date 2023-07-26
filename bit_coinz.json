@@ -1,0 +1,430 @@
+{
+  "name": "Bit-Coinz: Ethereum Edition",
+  "description": "8-Bit Pixel Coins • Only 30 Coins Per Collection • Each Coin Inscribed On It’s Native Chain",
+  "total_supply": "30",
+  "logo_image_uri": "esc://ethscriptions/0x30462724f1cf61ac4c4f4b9c83e284c056d4b8a229acb88a1c49f7f076e79047/data",
+  "banner_image_uri": "https://twitter.com/bitcoinz_/header_photo",
+  "background_color": "#25ca26",
+  "twitter_link": "https://twitter.com/bitcoinz_",
+  "website_link": "",
+  "discord_link": "",
+  "collection_items": [
+    {
+      "ethscription_id": "0x30462724f1cf61ac4c4f4b9c83e284c056d4b8a229acb88a1c49f7f076e79047",
+      "name": "#1",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 1,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xed1b86a6906f713e96b2cc2153a8a7b269a83648c49368f6c78a6f3647c765c6",
+      "name": "#2",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 2,
+      "item_attributes": [
+        {
+          "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+{
+      "ethscription_id": "0xa04a2c1cee126063ed1452121cea4c933bdf0e882b80092c86eee48092350e3b",
+      "name": "#3",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 3,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xd7e05257bfc4d519ba12b42f279946910b135d983a8bbae53ba91faa501338f3",
+      "name": "#4",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 4,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xb13a4075ee59ac7230a24da3abe3bbd24f94b17c274056a2a98e71642b12de3b",
+      "name": "#5",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 5,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xf182567539bb5063f1d05d9177b59d72ba1b8089587b125c22abfb42db0156cc",
+      "name": "#6",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 6,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x6089c8f2a91bcdd7bbcb238b5120382f53d4296e3bc6865c979179bddaac294b",
+      "name": "#7",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 7,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x9c13b3416422a1791f0fb3516fa65a5ff2468eedf649ba60be1a4ef1623d400c",
+      "name": "#8",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 8,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x88ab30f009dd3789179db9db7f49ce263fe45b5ab7137729122e6cf28f53831a",
+      "name": "#9",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 9,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x9e006a5116b930b77472d1a942adc87db3c2810f752c5fe843e4cbe1eee8fcd7",
+      "name": "#10",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 10,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x2050f54e2f35ae929b9e0f9fcb9ba45f1ce2a03039af67c112460068e50d9a73",
+      "name": "#11",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 11,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x35c2cb80115a6b1df6211f678c2970f1b0f90edfe27cdee23e769831dad7699e",
+      "name": "#12",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 12,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x663f595cbae73afc23bb8aff3127046f368f206bb626d086066fab9bb1c57c16",
+      "name": "#13",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 13,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xa690cf9ecd338d90ddf644c5756ea0c014fb9ce3091d4109769552b43be9e389",
+      "name": "#14",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 14,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x14aacd7106a1b98e32db6b2857ec46ef3d3687da30adacee61bfd8f8e98eaa13",
+      "name": "#15",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 15,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x67ecb7ff11f5ef4cba4525064341099f5ee87b04de675dd344393dde0c4dd0d4",
+      "name": "#16",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 16,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xf0cd3bb3ef0ea2ae1f745263ffd4a9bed61278b7173a73abb2de6fcbd5458d1d",
+      "name": "#17",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 17,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xb0c075bb77d776200f136e831252be35d3a43a36892df200256b8c65aa12eca5",
+      "name": "#18",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 18,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x2dff78236a2eb4c03cf1639cf49f2deec75dcd679be584c8116c38a0ad7dedd6",
+      "name": "#19",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 19,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x7598941d898b1e77424a925cf2d0ac04c9ef97c7f271e49130eb9d2804d4f5d2",
+      "name": "#20",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 20,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x4dbd8cc2525cf981929c00229f5c03e288ad2f82d47dd549d274430f3f1a1eeb",
+      "name": "#21",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 21,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x4406ed44b4ab6167c0e1528811238379e49675e2c9beff2bea7b8a7eef2da588",
+      "name": "#22",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 22,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xf40c60aae6b7afacf3c5dce6f3d19f462317ab2bf9ee661fedf8515a33c4b314",
+      "name": "#23",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 23,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xcf58398a2985c3d9de49f09fe0f561efba88daae5bcb54872b4e43ef176f1422",
+      "name": "#24",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 24,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x855201e5eb6f66b4eb607ee85f625a8aca3d1198d1279db51a0e5f2571660d42",
+      "name": "#25",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 25,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x3d575309f35703bc8f43be84a22590fe645b465b5e1441cc2b46b09db89682f3",
+      "name": "#26",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 26,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x573f4be4b07a42bf82e2338e213803c254d76da97f6a5a0b40c5fc02034c94a8",
+      "name": "#27",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 27,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xbd1084fd5c69e09b423f3f2b362c8d2c7ea602e53eb5a4915648e5043c02ad19",
+      "name": "#28",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 28,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0xbc1fcaf1bd8604243b44939e9b489b1661256abda19a597a774648eecd580383",
+      "name": "#29",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 29,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x401cef353c40cc7e52ceb6ffdbfa11eae1b1a44f1b39965f3ca5b9a5c81e26ff",
+      "name": "#30",
+      "description": "",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 30,
+      "item_attributes": [
+        {
+	  "value": "Bit-Coinz: Ethereum Edition",
+          "trait_type": "collection"
+        }
+      ]
+    }
+  ]
+}
